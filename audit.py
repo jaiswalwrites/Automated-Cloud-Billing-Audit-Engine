@@ -14,3 +14,5 @@ def run_cost_anomaly_audit(csv_path: str, threshold: float = 2.5) -> pd.DataFram
 
 if __name__ == "__main__":
     pass
+
+# Refactored update: stage 3 checkpoint - 2026-04-17
